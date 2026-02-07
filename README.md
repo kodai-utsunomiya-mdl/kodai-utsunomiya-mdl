@@ -1,4 +1,4 @@
-# Kodai Utsunomiya (宇都宮 幸大)
+# Kodai Utsunomiya
 
 Master's Student at University of Tsukuba <br>
 Student Trainee at RIKEN AIP (Team for AI Security and Privacy)
