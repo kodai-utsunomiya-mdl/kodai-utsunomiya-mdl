@@ -1,6 +1,5 @@
-<!-- 
 # Kodai Utsunomiya
--->
+
 Master's Program in Computer Science, Univ. of Tsukuba <br>
 Student Trainee at RIKEN AIP (Team for AI Security and Privacy)
 <!-- 
